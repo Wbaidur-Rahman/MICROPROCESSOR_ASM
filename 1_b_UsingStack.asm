@@ -1,3 +1,6 @@
+; this code takes a string as input and then gives reverse output [ stack implementation ]
+
+
 .MODEL SMALL
 .STACK 100H
 .DATA        

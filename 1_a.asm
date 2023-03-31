@@ -1,3 +1,7 @@
+; this code take a string as input and convert its letters into opposite characters 
+
+
+
 .MODEL SMALL
 .STACK 100H
 .DATA
